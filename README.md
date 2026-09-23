@@ -1,2 +1,0 @@
-# Sa-de
-App Saúde
